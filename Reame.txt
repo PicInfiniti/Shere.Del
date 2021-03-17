@@ -1,0 +1,3 @@
+Read if you forget anything.
+
+Base-Data.json is souerce Data-Base contain count of Ghazal for every poet.
