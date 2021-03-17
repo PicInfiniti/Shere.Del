@@ -1,0 +1,344 @@
+[{
+  "_id": "khosro",
+  "name": "امیرخسرو دهلوی",
+  "link": "https://ganjoor.net/khosro/gozide/ghazalamkh/",
+  "type": "ghazal",
+  "count": 1996,
+  "used": []
+}, {
+  "_id": "ebnehesam",
+  "name": "ابن حسام خوسفی",
+  "link": "https://ganjoor.net/ebnehesam/ghazalebn/",
+  "type": "ghazal",
+  "count": 178,
+  "used": []
+}, {
+  "_id": "razi",
+  "name": "رضی‌الدین آرتیمانی",
+  "link": "https://ganjoor.net/razi/ghazalar/",
+  "type": "ghazal",
+  "count": 94,
+  "used": []
+}, {
+  "_id": "bidel",
+  "name": "بیدل دهلوی",
+  "link": "https://ganjoor.net/bidel/ghazalbi/",
+  "type": "ghazal",
+  "count": 2827,
+  "used": []
+}, {
+  "_id": "bahar",
+  "name": "ملک‌الشعرای بهار",
+  "link": "https://ganjoor.net/bahar/ghazalbk/",
+  "type": "ghazal",
+  "count": 101,
+  "used": []
+}, {
+  "_id": "babaafzal",
+  "name": "باباافضل کاشانی",
+  "link": "https://ganjoor.net/babaafzal/ghazalba/",
+  "type": "ghazal",
+  "count": 7,
+  "used": []
+}, {
+  "_id": "ouhadi",
+  "name": "اوحدی",
+  "link": "https://ganjoor.net/ouhadi/divano/ghazalo/",
+  "type": "ghazal",
+  "count": 887,
+  "used": []
+}, {
+  "_id": "anvari",
+  "name": "انوری",
+  "link": "https://ganjoor.net/anvari/divan-anvari/ghazala/",
+  "type": "ghazal",
+  "count": 321,
+  "used": []
+}, {
+  "_id": "amir",
+  "name": "امیر معزی",
+  "link": "https://ganjoor.net/amir/ghazam/",
+  "type": "ghazal",
+  "count": 61,
+  "used": []
+}, {
+  "_id": "khajoo",
+  "name": "خواجوی کرمانی",
+  "link": "https://ganjoor.net/khajoo/ghazal-khajoo/",
+  "type": "ghazal",
+  "count": 932,
+  "used": []
+}, {
+  "_id": "khaghani",
+  "name": "خاقانی",
+  "link": "https://ganjoor.net/khaghani/divankh/ghazalkh/",
+  "type": "ghazal",
+  "count": 401,
+  "used": []
+}, {
+  "_id": "asrar",
+  "name": "حکیم سبزواری",
+  "link": "https://ganjoor.net/asrar/divanhs/ghazal-hs/",
+  "type": "ghazal",
+  "count": 182,
+  "used": []
+}, {
+  "_id": "hazin",
+  "name": "حزین لاهیجی",
+  "link": "https://ganjoor.net/hazin/ghazal-hz/",
+  "type": "ghazal",
+  "count": 912,
+  "used": []
+}, {
+  "_id": "hafez",
+  "name": "حافظ",
+  "link": "https://ganjoor.net/hafez/ghazal/",
+  "type": "ghazal",
+  "count": 495,
+  "used": []
+}, {
+  "_id": "sanaee",
+  "name": "سنایی",
+  "link": "https://ganjoor.net/sanaee/divans/ghazal-sanaee/",
+  "type": "ghazal",
+  "count": 435,
+  "used": []
+}, {
+  "_id": "salman",
+  "name": "سلمان ساوجی",
+  "link": "https://ganjoor.net/salman/divanss/ghazalss/",
+  "type": "ghazal",
+  "count": 387,
+  "used": []
+}, {
+  "_id": "saadi",
+  "name": "سعدی",
+  "link": "https://ganjoor.net/saadi/divan/ghazals/",
+  "type": "ghazal",
+  "count": 637,
+  "used": []
+}, {
+  "_id": "samet",
+  "name": "صامت بروجردی",
+  "link": "https://ganjoor.net/samet/ghazalsmt/",
+  "type": "ghazal",
+  "count": 72,
+  "used": []
+}, {
+  "_id": "صائب تبریزی",
+  "name": "",
+  "link": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/",
+  "type": "ghazal",
+  "count": 6995,
+  "used": []
+}, {
+  "_id": "bahaee",
+  "name": "شیخ بهایی",
+  "link": "https://ganjoor.net/bahaee/divan-baha/ghazal-baha/",
+  "type": "ghazal",
+  "count": 25,
+  "used": []
+}, {
+  "_id": "shahriar",
+  "name": "شهریار",
+  "link": "https://ganjoor.net/shahriar/gozidegh/",
+  "type": "ghazal",
+  "count": 160,
+  "used": []
+}, {
+  "_id": "maghrebi",
+  "name": "شمس مغربی",
+  "link": "https://ganjoor.net/maghrebi/ghazal-sm/",
+  "type": "ghazal",
+  "count": 191,
+  "used": []
+}, {
+  "_id": "shahnematollah",
+  "name": "شاه نعمت‌الله ولی",
+  "link": "https://ganjoor.net/shahnematollah/ghazalshv/",
+  "type": "ghazal",
+  "count": 1564,
+  "used": []
+}, {
+  "_id": "seyf",
+  "name": "سیف فرغانی",
+  "link": "https://ganjoor.net/seyf/divan-seyf/ghazalsk/",
+  "type": "ghazal",
+  "count": 582,
+  "used": []
+}, {
+  "_id": "attar",
+  "name": "عطار",
+  "link": "https://ganjoor.net/attar/divana/ghazal-attar/",
+  "type": "ghazal",
+  "count": 852,
+  "used": []
+}, {
+  "_id": "orfi",
+  "name": "عرفی شیرازی",
+  "link": "https://ganjoor.net/orfi/ghazalor/",
+  "type": "ghazal",
+  "count": 573,
+  "used": []
+}, {
+  "_id": "eraghi",
+  "name": "عراقی",
+  "link": "https://ganjoor.net/eraghi/divane/ghazale/",
+  "type": "ghazal",
+  "count": 305,
+  "used": []
+}, {
+  "_id": "obeyd",
+  "name": "عبید زاکانی",
+  "link": "https://ganjoor.net/obeyd/divan-obeyd/ghazal-obeyd/",
+  "type": "ghazal",
+  "count": 106,
+  "used": []
+}, {
+  "_id": "gilani",
+  "name": "عبدالقادر گیلانی",
+  "link": "https://ganjoor.net/gilani/ghazalgi/",
+  "type": "ghazal",
+  "count": 74,
+  "used": []
+}, {
+  "_id": "shater",
+  "name": "shater",
+  "link": "https://ganjoor.net/shater/ghazalsha/",
+  "type": "ghazal",
+  "count": 75,
+  "used": []
+}, {
+  "_id": "zahir",
+  "name": "ظهیر فاریابی",
+  "link": "https://ganjoor.net/zahir/ghazalz-zahir/",
+  "type": "ghazal",
+  "count": 10,
+  "used": []
+}, {
+  "_id": "feyz",
+  "name": "فیض کاشانی",
+  "link": "https://ganjoor.net/feyz/divanz/ghazalz/",
+  "type": "ghazal",
+  "count": 961,
+  "used": []
+}, {
+  "_id": "forooghi",
+  "name": "فروغی بسطامی",
+  "link": "https://ganjoor.net/forooghi/divan-forooghi/ghazalf/",
+  "type": "ghazal",
+  "count": 516,
+  "used": []
+}, {
+  "_id": "ghobar",
+  "name": "غبار همدانی",
+  "link": "https://ganjoor.net/ghobar/ghazal-gh/",
+  "type": "ghazal",
+  "count": 101,
+  "used": []
+}, {
+  "_id": "masood",
+  "name": "مسعود سعد سلمان",
+  "link": "https://ganjoor.net/masood/divan-masood/ghazalmk/",
+  "type": "ghazal",
+  "count": 22,
+  "used": []
+}, {
+  "_id": "mohtasham",
+  "name": "محتشم کاشانی",
+  "link": "https://ganjoor.net/mohtasham/divan-moh/ghazal-moh/",
+  "type": "ghazal",
+  "count": 601,
+  "used": []
+}, {
+  "_id": "khojandi",
+  "name": "کمال خجندی",
+  "link": "https://ganjoor.net/khojandi/ghazalkk/",
+  "type": "ghazal",
+  "count": 1079,
+  "used": []
+}, {
+  "_id": "kamal",
+  "name": "کمال‌الدین اسماعیل",
+  "link": "https://ganjoor.net/kamal/ghazalk/",
+  "type": "ghazal",
+  "count": 160,
+  "used": []
+}, {
+  "_id": "ghodsi",
+  "name": "قدسی مشهدی",
+  "link": "https://ganjoor.net/ghodsi/ghazalgm/",
+  "type": "ghazal",
+  "count": 460,
+  "used": []
+}, {
+  "_id": "ghaani",
+  "name": "قاآنی",
+  "link": "https://ganjoor.net/ghaani/ghazalgh/",
+  "type": "ghazal",
+  "count": 76,
+  "used": []
+}, {
+  "_id": "nayyer",
+  "name": "نیر تبریزی",
+  "link": "https://ganjoor.net/nayyer/ghazal-nt/",
+  "type": "ghazal",
+  "count": 143,
+  "used": []
+}, {
+  "_id": "nezari",
+  "name": "حکیم نزاری",
+  "link": "https://ganjoor.net/nezari/ghazalnz/",
+  "type": "ghazal",
+  "count": 1408,
+  "used": []
+}, {
+  "_id": "moulavi",
+  "name": "مولوی",
+  "link": "https://ganjoor.net/moulavi/shams/ghazalsh/",
+  "type": "ghazal",
+  "count": 3230,
+  "used": []
+}, {
+  "_id": "vahdat",
+  "name": "وحدت کرمانشاهی",
+  "link": "https://ganjoor.net/vahdat/ghazalvk/",
+  "type": "ghazal",
+  "count": 60,
+  "used": []
+}, {
+  "_id": "homam",
+  "name": "همام تبریزی",
+  "link": "https://ganjoor.net/homam/ghazalho/",
+  "type": "ghazal",
+  "count": 220,
+  "used": []
+}, {
+  "_id": "helali",
+  "name": "هلالی جغتایی",
+  "link": "https://ganjoor.net/helali/ghazalh/",
+  "type": "ghazal",
+  "count": 421,
+  "used": []
+}, {
+  "_id": "hatef",
+  "name": "هاتف اصفهانی",
+  "link": "https://ganjoor.net/hatef/divan-hatef/ghazal-hatef/",
+  "type": "ghazal",
+  "count": 90,
+  "used": []
+}, {
+  "_id": "vatvat",
+  "name": "رشیدالدین وطواط",
+  "link": "https://ganjoor.net/vatvat/ghazv/",
+  "type": "ghazal",
+  "count": 10,
+  "used": []
+}, {
+  "_id": "vahshi",
+  "name": "وحشی",
+  "link": "https://ganjoor.net/vahshi/divanv/ghazalv/",
+  "type": "ghazal",
+  "count": 397,
+  "used": []
+}]
